@@ -1,5 +1,4 @@
-# data_analyst_portfolio
-A portfolio showcasing my data analysis projects and skills.
+# Data Analyst Portfolio 
 
 
 Welcome to my data analyst portfolio! Here you will find a collection of my data analysis projects showcasing my skills and methodologies.
