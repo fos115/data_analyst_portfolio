@@ -68,7 +68,7 @@ A data-driven approach to segment customers for targeted marketing strategies. T
 [More details in CV]
 
 ## 🎓 Education
-- **B.Sc. in Economics and Management** - Federico Santa Maria Technical University (2017 - Present)
+- **B.Sc. in Economics and Management** - Federico Santa Maria Technical University (2017 - 2020)
 - **B.Sc. as Navy Officer** - Naval Polytechnic Academy, Chilean Navy (2010 - 2015)
   - Graduated in the top 5% of the '14 Class
 
@@ -90,6 +90,6 @@ A data-driven approach to segment customers for targeted marketing strategies. T
 - LinkedIn: [Fuad O.](https://www.linkedin.com/in/fuad-os)
 - Email: fos115@icloud.com
 - Phone: +56-983731985
-- Location: Santiago, Región Metropolitana, Chile
+- Location: Santiago, Chile
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas !
