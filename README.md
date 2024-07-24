@@ -1,7 +1,5 @@
 # Data Analyst Portfolio
 
-# Fuad O. - Senior Data Engineer & Data Analyst
-
 ## About Me
 Hello! 👋 I'm Fuad, a Senior Data Engineer and Data Analyst with 5 years of experience in analytics and market insights. My background in engineering, economics, and naval operations drives my passion for IT, engineering, Business Intelligence, commerce, and sustainability. I'm dedicated to leveraging data to spark innovation and craft impactful solutions across diverse industries including commerce, IT, energy, and defense.
 
